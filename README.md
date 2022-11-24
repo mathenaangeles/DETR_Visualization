@@ -6,4 +6,5 @@ Unlike traditional computer vision techniques, DETR approaches object detection 
 Object detection is a computer vision technique for locating instances of objects in images or videos. Object detection algorithms typically leverage machine learning or deep learning to produce meaningful results. Occlusion occurs when an object that is being tracked is hidden (occluded) by another object or the surrounding environment.
 ### Transformers
 The transformer architecture was introduced in the paper titled [Attention Is All You Need](https://arxiv.org/abs/1706.03762).
+
 ![Transformers](https://miro.medium.com/max/1400/1*Ir-j0HTT-IoWcZSyaE2F-A.png)
